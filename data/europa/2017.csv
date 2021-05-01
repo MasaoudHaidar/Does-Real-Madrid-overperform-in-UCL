@@ -1,0 +1,469 @@
+HomeTeam,AwayTeam,FTHG,FTAG,is_group_stage
+Kapaz Ganja,Dacia Chisinau,0,0,True
+Dacia Chisinau,Kapaz Ganja,0,1,True
+Partizani Tirana,Slovan Bratislava,0,0,True
+FK Aktobe,MTK Budapest,1,1,True
+MTK Budapest,FK Aktobe,2,0,True
+Slavia Sofia,Zaglebie Lubin,1,0,True
+Zaglebie Lubin,Slavia Sofia,3,0,True
+Shkendija Tetovo,Cracovia Krakow,2,0,True
+Cracovia Krakow,Shkendija Tetovo,1,2,True
+Banants Yerevan,Omonia Nicosia,0,1,True
+Omonia Nicosia,Banants Yerevan,4,1,True
+Spartak Trnava,Hibernians FC,3,0,True
+Hibernians FC,Spartak Trnava,0,3,True
+Teuta Durres,Kairat Almaty,0,1,True
+Kairat Almaty,Teuta Durres,5,0,True
+Gabala FK,Samtredia,5,1,True
+Samtredia,Gabala FK,2,1,True
+Maccabi Tel-Aviv,Nova Gorica,3,0,True
+Nova Gorica,Maccabi Tel-Aviv,0,1,True
+FC Vaduz,Sileks Kratovo,3,1,True
+Sileks Kratovo,FC Vaduz,1,2,True
+La Fiorita,DVSC Debrecen,0,5,True
+DVSC Debrecen,La Fiorita,2,0,True
+FC Beroe Stara Zagora,Radnik Bijeljina,0,0,True
+Radnik Bijeljina,FC Beroe Stara Zagora,0,2,True
+Admira Wacker,Spartak Myjava,1,1,True
+Spartak Myjava,Admira Wacker,2,3,True
+Balzan FC,Neftchi Baku,0,2,True
+Neftchi Baku,Balzan FC,1,2,True
+FK Kukesi,Rudar Pljevlja,1,1,True
+Rudar Pljevlja,FK Kukesi,0,1,True
+Sloboda Tuzla,Beitar Jerusalem,0,0,True
+Beitar Jerusalem,Sloboda Tuzla,1,0,True
+Zimbru Chisinau,Chikhura Sachkhere,0,1,True
+Chikhura Sachkhere,Zimbru Chisinau,2,3,True
+Rabotnicki Skopje,Buducnost Podgorica,1,1,True
+Buducnost Podgorica,Rabotnicki Skopje,1,0,True
+Cukaricki Belgrade,Ordabasy Shymkent,3,0,True
+Ordabasy Shymkent,Cukaricki Belgrade,3,3,True
+Europa FC,Pyunik Yerevan,2,0,True
+Pyunik Yerevan,Europa FC,2,1,True
+UE Santa Coloma,Lokomotiva Zagreb,1,3,True
+Lokomotiva Zagreb,UE Santa Coloma,4,1,True
+Videoton Fehervar,Zaria Balti,3,0,True
+Zaria Balti,Videoton Fehervar,2,0,True
+Siroki Brijeg,Birkirkara,1,1,True
+Birkirkara,Siroki Brijeg,2,0,True
+Dila Gori,Shirak Gyumri,1,0,True
+Shirak Gyumri,Dila Gori,1,0,True
+AEK Larnaca,Folgore,3,0,True
+Folgore,AEK Larnaca,1,3,True
+Bokelj Kotor,Vojvodina Novi Sad,1,1,True
+Vojvodina Novi Sad,Bokelj Kotor,5,0,True
+NK Domzale,FC Lusitanos,3,1,True
+FC Lusitanos,NK Domzale,1,2,True
+Odd Grenland,IFK Mariehamn,2,0,True
+IFK Mariehamn,Odd Grenland,1,1,True
+Differdange 03,Cliftonville,1,1,True
+Cliftonville,Differdange 03,2,0,True
+AIK Stockholm,Bala Town,2,0,True
+Bala Town,AIK Stockholm,0,2,True
+NSI Runavik,Shakhtior Saligorsk,0,2,True
+Shakhtior Saligorsk,NSI Runavik,5,0,True
+Breidablik,FK Jelgava,2,3,True
+FK Jelgava,Breidablik,2,2,True
+Dinamo Minsk,Spartaks Jurmala,2,1,True
+Spartaks Jurmala,Dinamo Minsk,0,2,True
+FK Trakai,Kalju Nomme,2,1,True
+Kalju Nomme,FK Trakai,4,1,True
+Aberdeen,CS Fola Esch,3,1,True
+CS Fola Esch,Aberdeen,1,0,True
+Valur Reykjavik,Brndby IF,1,4,True
+Brndby IF,Valur Reykjavik,6,0,True
+Shamrock Rovers,RoPS Rovaniemi,0,2,True
+RoPS Rovaniemi,Shamrock Rovers,1,1,True
+KR Reykjavik,Glenavon,2,1,True
+Glenavon,KR Reykjavik,0,6,True
+St. Patrick's Athletic,Jeunesse d'Esch,1,0,True
+Jeunesse d'Esch,St. Patrick's Athletic,2,1,True
+IFK Goteborg,Llandudno FC,5,0,True
+Llandudno FC,IFK Goteborg,1,2,True
+Atlantas Klaipeda,HJK Helsinki,0,2,True
+HJK Helsinki,Atlantas Klaipeda,1,1,True
+Levadia Tallinn,HB Torshavn,1,1,True
+HB Torshavn,Levadia Tallinn,0,2,True
+Linfield Belfast,Cork City,0,1,True
+Cork City,Linfield Belfast,1,1,True
+FK Ventspils,Vikingur,2,0,True
+Vikingur,FK Ventspils,0,2,True
+Connah's Quay,Stabk IF,0,0,True
+Stabk IF,Connah's Quay,0,1,True
+Hearts FC,FCI Tallinn,2,1,True
+FCI Tallinn,Hearts FC,2,4,True
+FC Midtjylland,Suduva Marijampole,1,0,True
+Suduva Marijampole,FC Midtjylland,0,1,True
+SnderjyskE,Strmsgodset IF,2,1,True
+Strmsgodset IF,SnderjyskE,2,2,True
+Racing Genk,Buducnost Podgorica,2,0,True
+Buducnost Podgorica,Racing Genk,2,0,True
+Levadia Tallinn,Slavia Praha,3,1,True
+Slavia Praha,Levadia Tallinn,2,0,True
+AIK Stockholm,Europa FC,1,0,True
+Europa FC,AIK Stockholm,0,1,True
+Cliftonville,AEK Larnaca,2,3,True
+AEK Larnaca,Cliftonville,2,0,True
+Videoton Fehervar,Cukaricki Belgrade,2,0,True
+Cukaricki Belgrade,Videoton Fehervar,1,1,True
+CSMS Iasi,Hajduk Split,2,2,True
+Hajduk Split,CSMS Iasi,2,1,True
+DVSC Debrecen,Torpedo Zhodino,1,2,True
+Torpedo Zhodino,DVSC Debrecen,1,0,True
+Kairat Almaty,Maccabi Tel-Aviv,1,1,True
+Maccabi Tel-Aviv,Kairat Almaty,2,1,True
+BK Hacken,Cork City,1,1,True
+Cork City,BK Hacken,1,0,True
+Aberdeen,FK Ventspils,3,0,True
+FK Ventspils,Aberdeen,0,1,True
+Admira Wacker,Kapaz Ganja,1,0,True
+Kapaz Ganja,Admira Wacker,0,2,True
+Beitar Jerusalem,Omonia Nicosia,1,0,True
+Omonia Nicosia,Beitar Jerusalem,3,2,True
+Slovan Bratislava,FK Jelgava,0,0,True
+FK Jelgava,Slovan Bratislava,3,0,True
+Piast Gliwice,IFK Goteborg,0,3,True
+IFK Goteborg,Piast Gliwice,0,0,True
+NK Maribor,Levski Sofia,0,0,True
+Levski Sofia,NK Maribor,1,1,True
+Birkirkara,Hearts FC,0,0,True
+Hearts FC,Birkirkara,1,2,True
+PAS Giannina,Odd Grenland,3,0,True
+Odd Grenland,PAS Giannina,3,1,True
+Zimbru Chisinau,Osmanlispor,2,2,True
+Osmanlispor,Zimbru Chisinau,5,0,True
+FC Midtjylland,FC Vaduz,3,0,True
+FC Vaduz,FC Midtjylland,2,2,True
+KR Reykjavik,Grasshoppers Zurich,3,3,True
+Grasshoppers Zurich,KR Reykjavik,2,1,True
+Neftchi Baku,Shkendija Tetovo,0,0,True
+Shkendija Tetovo,Neftchi Baku,1,0,True
+RoPS Rovaniemi,Lokomotiva Zagreb,1,1,True
+Lokomotiva Zagreb,RoPS Rovaniemi,3,0,True
+FC Beroe Stara Zagora,HJK Helsinki,1,1,True
+HJK Helsinki,FC Beroe Stara Zagora,1,0,True
+MTK Budapest,Gabala FK,1,2,True
+Gabala FK,MTK Budapest,2,0,True
+Austria Wien,FK Kukesi,1,0,True
+FK Kukesi,Austria Wien,1,4,True
+Shakhtior Saligorsk,NK Domzale,1,1,True
+NK Domzale,Shakhtior Saligorsk,2,1,True
+Hibernian,Brndby IF,0,1,True
+Brndby IF,Hibernian,0,1,True
+Maccabi Haifa,Kalju Nomme,1,1,True
+Kalju Nomme,Maccabi Haifa,1,1,True
+Vojvodina Novi Sad,Connah's Quay,1,0,True
+Connah's Quay,Vojvodina Novi Sad,1,2,True
+Partizan Belgrade,Zaglebie Lubin,0,0,True
+Zaglebie Lubin,Partizan Belgrade,0,0,True
+Dinamo Minsk,St. Patrick's Athletic,1,1,True
+St. Patrick's Athletic,Dinamo Minsk,0,1,True
+Shirak Gyumri,Spartak Trnava,1,1,True
+Spartak Trnava,Shirak Gyumri,2,0,True
+Grasshoppers Zurich,Apollon Limassol,2,1,True
+Apollon Limassol,Grasshoppers Zurich,3,3,True
+Shkendija Tetovo,Mlada Boleslav,2,0,True
+Mlada Boleslav,Shkendija Tetovo,1,0,True
+FC Oleksandriya,Hajduk Split,0,3,True
+Hajduk Split,FC Oleksandriya,3,1,True
+FK Jelgava,Beitar Jerusalem,1,1,True
+Beitar Jerusalem,FK Jelgava,3,0,True
+AA Gent,Viitorul Constanta,5,0,True
+Viitorul Constanta,AA Gent,0,0,True
+Racing Genk,Cork City,1,0,True
+Cork City,Racing Genk,1,2,True
+Lille OSC,Gabala FK,1,1,True
+Gabala FK,Lille OSC,1,0,True
+AZ Alkmaar,PAS Giannina,1,0,True
+PAS Giannina,AZ Alkmaar,1,2,True
+Admira Wacker,Slovan Liberec,1,2,True
+Slovan Liberec,Admira Wacker,2,0,True
+Torpedo Zhodino,Rapid Wien,0,0,True
+Rapid Wien,Torpedo Zhodino,3,0,True
+Aberdeen,NK Maribor,1,1,True
+NK Maribor,Aberdeen,1,0,True
+Birkirkara,FK Krasnodar,0,3,True
+FK Krasnodar,Birkirkara,3,1,True
+IFK Goteborg,HJK Helsinki,1,2,True
+HJK Helsinki,IFK Goteborg,0,2,True
+Heracles Almelo,FC Arouca,1,1,True
+FC Arouca,Heracles Almelo,0,0,True
+Osmanlispor,Kalju Nomme,1,0,True
+Kalju Nomme,Osmanlispor,0,2,True
+Slavia Praha,Rio Ave,0,0,True
+Rio Ave,Slavia Praha,1,1,True
+Videoton Fehervar,FC Midtjylland,0,1,True
+FC Midtjylland,Videoton Fehervar,1,1,True
+Istanbul Basaksehir,NK Rijeka,0,0,True
+NK Rijeka,Istanbul Basaksehir,2,2,True
+Panathinaikos,AIK Stockholm,1,0,True
+AIK Stockholm,Panathinaikos,0,2,True
+FC Luzern,Sassuolo,1,1,True
+Sassuolo,FC Luzern,3,0,True
+NK Domzale,West Ham United,2,1,True
+West Ham United,NK Domzale,3,0,True
+Hertha BSC,Brndby IF,1,0,True
+Brndby IF,Hertha BSC,3,1,True
+Austria Wien,Spartak Trnava,0,1,True
+Spartak Trnava,Austria Wien,0,1,True
+Zaglebie Lubin,SnderjyskE,1,2,True
+SnderjyskE,Zaglebie Lubin,1,1,True
+Vojvodina Novi Sad,Dinamo Minsk,1,1,True
+Dinamo Minsk,Vojvodina Novi Sad,0,2,True
+Pandurii Targu Jiu,Maccabi Tel-Aviv,1,3,True
+Maccabi Tel-Aviv,Pandurii Targu Jiu,2,1,True
+AEK Larnaca,Spartak Moscow,1,1,True
+Spartak Moscow,AEK Larnaca,0,1,True
+AS Saint-Etienne,AEK Athens,0,0,True
+AEK Athens,AS Saint-Etienne,0,1,True
+Lokomotiva Zagreb,Vorskla Poltava,0,0,True
+Vorskla Poltava,Lokomotiva Zagreb,2,3,True
+Maccabi Tel-Aviv,Hajduk Split,2,1,True
+Hajduk Split,Maccabi Tel-Aviv,2,1,True
+IFK Goteborg,Garabag Agdam,1,0,True
+Garabag Agdam,IFK Goteborg,3,0,True
+Sassuolo,Red Star Belgrade,3,0,True
+Red Star Belgrade,Sassuolo,1,1,True
+SnderjyskE,Sparta Praha,0,0,True
+Sparta Praha,SnderjyskE,3,2,True
+Istanbul Basaksehir,Shakhtar Donetsk,1,2,True
+Shakhtar Donetsk,Istanbul Basaksehir,2,0,True
+AA Gent,Shkendija Tetovo,2,1,True
+Shkendija Tetovo,AA Gent,0,4,True
+FK Krasnodar,Partizani Tirana,4,0,True
+Partizani Tirana,FK Krasnodar,0,0,True
+Panathinaikos,Brndby IF,3,0,True
+Brndby IF,Panathinaikos,1,1,True
+Fenerbahce,Grasshoppers Zurich,3,0,True
+Grasshoppers Zurich,Fenerbahce,0,2,True
+Astra Giurgiu,West Ham United,1,1,True
+West Ham United,Astra Giurgiu,0,1,True
+Slavia Praha,Anderlecht,0,3,True
+Anderlecht,Slavia Praha,3,0,True
+Gabala FK,NK Maribor,3,1,True
+NK Maribor,Gabala FK,1,0,True
+Vojvodina Novi Sad,AZ Alkmaar,0,3,True
+AZ Alkmaar,Vojvodina Novi Sad,0,0,True
+Beitar Jerusalem,AS Saint-Etienne,1,2,True
+AS Saint-Etienne,Beitar Jerusalem,0,0,True
+Austria Wien,Rosenborg BK,2,1,True
+Rosenborg BK,Austria Wien,1,2,True
+Dinamo Tbilisi,PAOK Thessaloniki,0,3,True
+PAOK Thessaloniki,Dinamo Tbilisi,2,0,True
+AEK Larnaca,Slovan Liberec,0,1,True
+Slovan Liberec,AEK Larnaca,3,0,True
+Lokomotiva Zagreb,Racing Genk,2,2,True
+Racing Genk,Lokomotiva Zagreb,2,0,True
+AS Trencin,Rapid Wien,0,4,True
+Rapid Wien,AS Trencin,0,2,True
+FC Midtjylland,Osmanlispor,0,1,True
+Osmanlispor,FC Midtjylland,2,0,True
+FC Arouca,Olympiakos Piraeus,0,1,True
+Olympiakos Piraeus,FC Arouca,2,1,True
+FK Astana,BATE Borisov,2,0,True
+BATE Borisov,FK Astana,2,2,True
+Osmanlispor,Villarreal,2,2,True
+Villarreal,Osmanlispor,1,2,True
+Steaua Bucuresti,FC Zurich,1,1,True
+FC Zurich,Steaua Bucuresti,0,0,True
+Steaua Bucuresti,Villarreal,1,1,True
+Villarreal,Steaua Bucuresti,2,1,True
+FC Zurich,Osmanlispor,2,1,True
+Osmanlispor,FC Zurich,2,0,True
+Villarreal,FC Zurich,2,1,True
+FC Zurich,Villarreal,1,1,True
+Osmanlispor,Steaua Bucuresti,2,0,True
+Steaua Bucuresti,Osmanlispor,2,1,True
+Internazionale,Southampton FC,1,0,True
+Southampton FC,Internazionale,2,1,True
+Hapoel Beer-Sheva,Sparta Praha,0,1,True
+Sparta Praha,Hapoel Beer-Sheva,2,0,True
+Hapoel Beer-Sheva,Southampton FC,0,0,True
+Southampton FC,Hapoel Beer-Sheva,1,1,True
+Sparta Praha,Internazionale,3,1,True
+Internazionale,Sparta Praha,2,1,True
+Southampton FC,Sparta Praha,3,0,True
+Sparta Praha,Southampton FC,1,0,True
+Internazionale,Hapoel Beer-Sheva,0,2,True
+Hapoel Beer-Sheva,Internazionale,3,2,True
+Garabag Agdam,PAOK Thessaloniki,2,0,True
+PAOK Thessaloniki,Garabag Agdam,0,1,True
+Slovan Liberec,Fiorentina,1,3,True
+Fiorentina,Slovan Liberec,3,0,True
+Slovan Liberec,PAOK Thessaloniki,1,2,True
+PAOK Thessaloniki,Slovan Liberec,2,0,True
+Fiorentina,Garabag Agdam,5,1,True
+Garabag Agdam,Fiorentina,1,2,True
+PAOK Thessaloniki,Fiorentina,0,0,True
+Fiorentina,PAOK Thessaloniki,2,3,True
+Garabag Agdam,Slovan Liberec,2,2,True
+Slovan Liberec,Garabag Agdam,3,0,True
+FC Salzburg,OGC Nice,0,1,True
+OGC Nice,FC Salzburg,0,2,True
+FK Krasnodar,Schalke 04,0,1,True
+Schalke 04,FK Krasnodar,2,0,True
+FK Krasnodar,OGC Nice,5,2,True
+OGC Nice,FK Krasnodar,2,1,True
+Schalke 04,FC Salzburg,3,1,True
+FC Salzburg,Schalke 04,2,0,True
+OGC Nice,Schalke 04,0,1,True
+Schalke 04,OGC Nice,2,0,True
+FC Salzburg,FK Krasnodar,0,1,True
+FK Krasnodar,FC Salzburg,1,1,True
+Konyaspor,Sporting Braga,1,1,True
+Sporting Braga,Konyaspor,3,1,True
+Shakhtar Donetsk,AA Gent,5,0,True
+AA Gent,Shakhtar Donetsk,3,5,True
+Shakhtar Donetsk,Sporting Braga,2,0,True
+Sporting Braga,Shakhtar Donetsk,2,4,True
+AA Gent,Konyaspor,2,0,True
+Konyaspor,AA Gent,0,1,True
+Sporting Braga,AA Gent,1,1,True
+AA Gent,Sporting Braga,2,2,True
+Konyaspor,Shakhtar Donetsk,0,1,True
+Shakhtar Donetsk,Konyaspor,4,0,True
+Standard Liege,Panathinaikos,2,2,True
+Panathinaikos,Standard Liege,0,3,True
+Celta de Vigo,Ajax,2,2,True
+Ajax,Celta de Vigo,3,2,True
+Celta de Vigo,Panathinaikos,2,0,True
+Panathinaikos,Celta de Vigo,0,2,True
+Ajax,Standard Liege,1,0,True
+Standard Liege,Ajax,1,1,True
+Panathinaikos,Ajax,1,2,True
+Ajax,Panathinaikos,2,0,True
+Standard Liege,Celta de Vigo,1,1,True
+Celta de Vigo,Standard Liege,1,1,True
+Rapid Wien,Sassuolo,1,1,True
+Sassuolo,Rapid Wien,2,2,True
+Racing Genk,Athletic Bilbao,2,0,True
+Athletic Bilbao,Racing Genk,5,3,True
+Racing Genk,Sassuolo,3,1,True
+Sassuolo,Racing Genk,0,2,True
+Athletic Bilbao,Rapid Wien,1,0,True
+Rapid Wien,Athletic Bilbao,1,1,True
+Sassuolo,Athletic Bilbao,3,0,True
+Athletic Bilbao,Sassuolo,3,2,True
+Rapid Wien,Racing Genk,3,2,True
+Racing Genk,Rapid Wien,1,0,True
+Viktoria Plzen,Astra Giurgiu,1,2,True
+Astra Giurgiu,Viktoria Plzen,1,1,True
+Roma,Austria Wien,3,3,True
+Austria Wien,Roma,2,4,True
+Roma,Astra Giurgiu,4,0,True
+Astra Giurgiu,Roma,0,0,True
+Austria Wien,Viktoria Plzen,0,0,True
+Viktoria Plzen,Austria Wien,3,2,True
+Astra Giurgiu,Austria Wien,2,3,True
+Austria Wien,Astra Giurgiu,1,2,True
+Viktoria Plzen,Roma,1,1,True
+Roma,Viktoria Plzen,4,1,True
+AZ Alkmaar,Maccabi Tel-Aviv,1,2,True
+Maccabi Tel-Aviv,AZ Alkmaar,0,0,True
+Dundalk,Zenit St. Petersburg,1,2,True
+Zenit St. Petersburg,Dundalk,2,1,True
+Dundalk,Maccabi Tel-Aviv,1,0,True
+Maccabi Tel-Aviv,Dundalk,2,1,True
+Zenit St. Petersburg,AZ Alkmaar,5,0,True
+AZ Alkmaar,Zenit St. Petersburg,3,2,True
+Maccabi Tel-Aviv,Zenit St. Petersburg,3,4,True
+Zenit St. Petersburg,Maccabi Tel-Aviv,2,0,True
+AZ Alkmaar,Dundalk,1,1,True
+Dundalk,AZ Alkmaar,0,1,True
+FSV Mainz 05,Anderlecht,1,1,True
+Anderlecht,FSV Mainz 05,6,1,True
+AS Saint-Etienne,Gabala FK,1,0,True
+Gabala FK,AS Saint-Etienne,1,2,True
+AS Saint-Etienne,Anderlecht,1,1,True
+Anderlecht,AS Saint-Etienne,2,3,True
+Gabala FK,FSV Mainz 05,2,3,True
+FSV Mainz 05,Gabala FK,2,0,True
+Anderlecht,Gabala FK,3,1,True
+Gabala FK,Anderlecht,1,3,True
+FSV Mainz 05,AS Saint-Etienne,1,1,True
+AS Saint-Etienne,FSV Mainz 05,0,0,True
+Young Boys,APOEL Nicosia,3,1,True
+APOEL Nicosia,Young Boys,1,0,True
+Olympiakos Piraeus,FK Astana,4,1,True
+FK Astana,Olympiakos Piraeus,1,1,True
+Olympiakos Piraeus,APOEL Nicosia,0,1,True
+APOEL Nicosia,Olympiakos Piraeus,2,0,True
+FK Astana,Young Boys,0,0,True
+Young Boys,FK Astana,3,0,True
+APOEL Nicosia,FK Astana,2,1,True
+FK Astana,APOEL Nicosia,2,1,True
+Young Boys,Olympiakos Piraeus,0,1,True
+Olympiakos Piraeus,Young Boys,1,1,True
+Feyenoord,Zorya Luhansk,1,0,True
+Zorya Luhansk,Feyenoord,1,1,True
+Man United,Fenerbahce,4,1,True
+Fenerbahce,Man United,2,1,True
+Man United,Zorya Luhansk,1,0,True
+Zorya Luhansk,Man United,0,2,True
+Fenerbahce,Feyenoord,1,0,True
+Feyenoord,Fenerbahce,0,1,True
+Zorya Luhansk,Fenerbahce,1,1,True
+Fenerbahce,Zorya Luhansk,2,0,True
+Feyenoord,Man United,1,0,True
+Man United,Feyenoord,4,0,True
+PAOK Thessaloniki,Schalke 04,0,3,False
+Schalke 04,PAOK Thessaloniki,1,1,False
+Hapoel Beer-Sheva,Besiktas,1,3,False
+Besiktas,Hapoel Beer-Sheva,2,1,False
+AZ Alkmaar,Olympique Lyon,1,4,False
+Olympique Lyon,AZ Alkmaar,7,1,False
+Borussia Monchengladbach,Fiorentina,0,1,False
+Fiorentina,Borussia Monchengladbach,2,4,False
+FK Krasnodar,Fenerbahce,1,0,False
+Fenerbahce,FK Krasnodar,1,1,False
+FK Rostov,Sparta Praha,4,0,False
+Sparta Praha,FK Rostov,1,1,False
+AA Gent,Tottenham Hotspur,1,0,False
+Tottenham Hotspur,AA Gent,2,2,False
+Olympiakos Piraeus,Osmanlispor,0,0,False
+Osmanlispor,Olympiakos Piraeus,0,3,False
+Celta de Vigo,Shakhtar Donetsk,0,1,False
+Shakhtar Donetsk,Celta de Vigo,0,2,False
+Ludogorets Razgrad,FC Kbenhavn,1,2,False
+FC Kbenhavn,Ludogorets Razgrad,0,0,False
+Villarreal,Roma,0,4,False
+Roma,Villarreal,0,1,False
+Man United,AS Saint-Etienne,3,0,False
+AS Saint-Etienne,Man United,0,1,False
+Astra Giurgiu,Racing Genk,2,2,False
+Racing Genk,Astra Giurgiu,1,0,False
+Anderlecht,Zenit St. Petersburg,2,0,False
+Zenit St. Petersburg,Anderlecht,3,1,False
+Legia Warsaw,Ajax,0,0,False
+Ajax,Legia Warsaw,1,0,False
+Athletic Bilbao,APOEL Nicosia,3,2,False
+APOEL Nicosia,Athletic Bilbao,2,0,False
+FC Kbenhavn,Ajax,2,1,False
+Ajax,FC Kbenhavn,2,0,False
+AA Gent,Racing Genk,2,5,False
+Racing Genk,AA Gent,1,1,False
+Olympiakos Piraeus,Besiktas,1,1,False
+Besiktas,Olympiakos Piraeus,4,1,False
+FK Rostov,Man United,1,1,False
+Man United,FK Rostov,1,0,False
+Olympique Lyon,Roma,4,2,False
+Roma,Olympique Lyon,2,1,False
+Schalke 04,Borussia Monchengladbach,1,1,False
+Borussia Monchengladbach,Schalke 04,2,2,False
+APOEL Nicosia,Anderlecht,0,1,False
+Anderlecht,APOEL Nicosia,1,0,False
+Celta de Vigo,FK Krasnodar,2,1,False
+FK Krasnodar,Celta de Vigo,0,2,False
+Olympique Lyon,Besiktas,2,1,False
+Besiktas,Olympique Lyon,2,1,False
+Ajax,Schalke 04,2,0,False
+Schalke 04,Ajax,3,2,False
+Celta de Vigo,Racing Genk,3,2,False
+Racing Genk,Celta de Vigo,1,1,False
+Anderlecht,Man United,1,1,False
+Man United,Anderlecht,2,1,False
+Celta de Vigo,Man United,0,1,False
+Man United,Celta de Vigo,1,1,False
+Ajax,Olympique Lyon,4,1,False
+Olympique Lyon,Ajax,3,1,False
+Ajax,Man United,0,2,False

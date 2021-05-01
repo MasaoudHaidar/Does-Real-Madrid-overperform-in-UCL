@@ -1,0 +1,126 @@
+HomeTeam,AwayTeam,FTHG,FTAG,is_group_stage
+Lyon,Zenit,1.0,1.0,True
+Inter,Slavia Prague,1.0,1.0,True
+Chelsea,Valencia,0.0,1.0,True
+Benfica,RB Leipzig,1.0,2.0,True
+Dortmund,Barcelona,0.0,0.0,True
+RB Salzburg,Genk,6.0,2.0,True
+Ajax,Lille,3.0,0.0,True
+Napoli,Liverpool,2.0,0.0,True
+Club Brugge,Galatasaray,0.0,0.0,True
+Olympiacos,Tottenham,2.0,2.0,True
+Ath Madrid,Juventus,2.0,2.0,True
+Paris SG,Real Madrid,3.0,0.0,True
+Bayern Munich,Red Star,3.0,0.0,True
+Dinamo Zagreb,Atalanta,4.0,0.0,True
+Leverkusen,Loko Moscow,1.0,2.0,True
+Shakhtar,Man City,0.0,3.0,True
+,,,,False
+Atalanta,Shakhtar,1.0,2.0,True
+Real Madrid,Club Brugge,2.0,2.0,True
+Man City,Dinamo Zagreb,2.0,0.0,True
+Tottenham,Bayern Munich,2.0,7.0,True
+Juventus,Leverkusen,3.0,0.0,True
+Red Star,Olympiacos,3.0,1.0,True
+Loko Moscow,Ath Madrid,0.0,2.0,True
+Galatasaray,Paris SG,0.0,1.0,True
+Genk,Napoli,0.0,0.0,True
+Slavia Prague,Dortmund,0.0,2.0,True
+Liverpool,RB Salzburg,4.0,3.0,True
+Barcelona,Inter,2.0,1.0,True
+RB Leipzig,Lyon,0.0,2.0,True
+Lille,Chelsea,1.0,2.0,True
+Valencia,Ajax,0.0,3.0,True
+Zenit,Benfica,3.0,1.0,True
+,,,,False
+Ath Madrid,Leverkusen,1.0,0.0,True
+Shakhtar,Dinamo Zagreb,2.0,2.0,True
+Tottenham,Red Star,5.0,0.0,True
+Man City,Atalanta,5.0,1.0,True
+Club Brugge,Paris SG,0.0,5.0,True
+Juventus,Loko Moscow,2.0,1.0,True
+Olympiacos,Bayern Munich,2.0,3.0,True
+Galatasaray,Real Madrid,0.0,1.0,True
+RB Leipzig,Zenit,2.0,1.0,True
+Ajax,Chelsea,0.0,1.0,True
+Benfica,Lyon,2.0,1.0,True
+Inter,Dortmund,2.0,0.0,True
+RB Salzburg,Napoli,2.0,3.0,True
+Lille,Valencia,1.0,1.0,True
+Genk,Liverpool,1.0,4.0,True
+Slavia Prague,Barcelona,1.0,2.0,True
+,,,,False
+Barcelona,Slavia Prague,0.0,0.0,True
+Zenit,RB Leipzig,0.0,2.0,True
+Liverpool,Genk,2.0,1.0,True
+Chelsea,Ajax,4.0,4.0,True
+Valencia,Lille,4.0,1.0,True
+Napoli,RB Salzburg,1.0,1.0,True
+Dortmund,Inter,3.0,2.0,True
+Lyon,Benfica,3.0,1.0,True
+Bayern Munich,Olympiacos,2.0,0.0,True
+Loko Moscow,Juventus,1.0,2.0,True
+Atalanta,Man City,1.0,1.0,True
+Leverkusen,Ath Madrid,2.0,1.0,True
+Paris SG,Club Brugge,1.0,0.0,True
+Real Madrid,Galatasaray,6.0,0.0,True
+Red Star,Tottenham,0.0,4.0,True
+Dinamo Zagreb,Shakhtar,3.0,3.0,True
+,,,,False
+Galatasaray,Club Brugge,1.0,1.0,True
+Loko Moscow,Leverkusen,0.0,2.0,True
+Man City,Shakhtar,1.0,1.0,True
+Tottenham,Olympiacos,4.0,2.0,True
+Real Madrid,Paris SG,2.0,2.0,True
+Red Star,Bayern Munich,0.0,6.0,True
+Juventus,Ath Madrid,1.0,0.0,True
+Atalanta,Dinamo Zagreb,2.0,0.0,True
+Valencia,Chelsea,2.0,2.0,True
+Zenit,Lyon,2.0,0.0,True
+Liverpool,Napoli,1.0,1.0,True
+Slavia Prague,Inter,1.0,3.0,True
+Genk,RB Salzburg,1.0,4.0,True
+Lille,Ajax,0.0,2.0,True
+RB Leipzig,Benfica,2.0,2.0,True
+Barcelona,Dortmund,3.0,1.0,True
+,,,,False
+Napoli,Genk,4.0,0.0,True
+RB Salzburg,Liverpool,0.0,2.0,True
+Benfica,Zenit,3.0,0.0,True
+Chelsea,Lille,2.0,1.0,True
+Inter,Barcelona,1.0,2.0,True
+Lyon,RB Leipzig,2.0,2.0,True
+Ajax,Valencia,0.0,1.0,True
+Dortmund,Slavia Prague,2.0,1.0,True
+Dinamo Zagreb,Man City,1.0,4.0,True
+Shakhtar,Atalanta,0.0,3.0,True
+Paris SG,Galatasaray,5.0,0.0,True
+Bayern Munich,Tottenham,3.0,1.0,True
+Ath Madrid,Loko Moscow,2.0,0.0,True
+Leverkusen,Juventus,0.0,2.0,True
+Club Brugge,Real Madrid,1.0,3.0,True
+Olympiacos,Red Star,1.0,0.0,True
+,,,,False
+Dortmund,Paris SG,2.0,1.0,False
+Ath Madrid,Liverpool,1.0,0.0,False
+Tottenham,RB Leipzig,0.0,1.0,False
+Atalanta,Valencia,4.0,1.0,False
+Chelsea,Bayern Munich,0.0,3.0,False
+Napoli,Barcelona,1.0,1.0,False
+Real Madrid,Man City,1.0,2.0,False
+Lyon,Juventus,1.0,0.0,False
+Valencia,Atalanta,3.0,4.0,False
+RB Leipzig,Tottenham,3.0,0.0,False
+Liverpool,Ath Madrid,2.0,3.0,False
+Paris SG,Dortmund,2.0,0.0,False
+Man City,Real Madrid,2.0,1.0,False
+Juventus,Lyon,2.0,1.0,False
+Barcelona,Napoli,3.0,1.0,False
+Bayern Munich,Chelsea,4.0,1.0,False
+Atalanta,Paris SG,1.0,2.0,False
+RB Leipzig,Ath Madrid,2.0,1.0,False
+Barcelona,Bayern Munich,2.0,8.0,False
+Man City,Lyon,1.0,3.0,False
+RB Leipzig,Paris SG,0.0,3.0,False
+Lyon,Bayern Munich,0.0,3.0,False
+Paris SG,Bayern Munich,0.0,1.0,False

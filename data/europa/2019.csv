@@ -1,0 +1,212 @@
+HomeTeam,AwayTeam,FTHG,FTAG,is_group_stage
+Rapid Wien,Spartak Moscow,2.0,0.0,True
+Vidi,BATE Borisov,0.0,2.0,True
+Marseille,Eint Frankfurt,1.0,2.0,True
+Lazio,Apollon,2.0,1.0,True
+Villarreal,Rangers,2.0,2.0,True
+Sevilla,Standard Liège,5.0,1.0,True
+Genk,Malmö,2.0,0.0,True
+Rennes,Jablonec,2.0,1.0,True
+Dynamo Kyiv,Astana FK,2.0,2.0,True
+Beşiktaş,Sarpsborg 08,3.0,1.0,True
+PAOK,Chelsea,0.0,1.0,True
+Akhisarspor,Krasnodar,0.0,1.0,True
+Arsenal,Vorskla Poltava,4.0,2.0,True
+Celtic,Rosenborg,1.0,0.0,True
+Sporting CP,Qarabağ Ağdam,2.0,0.0,True
+FC Copenhagen,Zenit,1.0,1.0,True
+F91 Dudelange,Milan,0.0,1.0,True
+Dinamo Zagreb,Fenerbahçe,4.0,1.0,True
+Slavia Prague,Bordeaux,1.0,0.0,True
+RB Leipzig,RB Salzburg,2.0,3.0,True
+Spartak Trnava,Anderlecht,1.0,0.0,True
+AÉK Lárnaka,Zürich,0.0,1.0,True
+Olympiacos,Betis,0.0,0.0,True
+Ludogorets,Leverkusen,2.0,3.0,True
+,,,,False
+Astana FK,Rennes,2.0,0.0,True
+Rosenborg,RB Leipzig,1.0,3.0,True
+Leverkusen,AÉK Lárnaka,4.0,2.0,True
+Bordeaux,FC Copenhagen,1.0,2.0,True
+RB Salzburg,Celtic,3.0,1.0,True
+Betis,F91 Dudelange,3.0,0.0,True
+Zürich,Ludogorets,1.0,0.0,True
+Milan,Olympiacos,3.0,1.0,True
+Anderlecht,Dinamo Zagreb,0.0,2.0,True
+Fenerbahçe,Spartak Trnava,2.0,0.0,True
+Zenit,Slavia Prague,1.0,0.0,True
+Vorskla Poltava,Sporting CP,1.0,2.0,True
+Qarabağ Ağdam,Arsenal,0.0,3.0,True
+Rangers,Rapid Wien,3.0,1.0,True
+Chelsea,Vidi,1.0,0.0,True
+Sarpsborg 08,Genk,3.0,1.0,True
+Standard Liège,Akhisarspor,2.0,1.0,True
+Eint Frankfurt,Lazio,4.0,1.0,True
+Malmö,Beşiktaş,2.0,0.0,True
+Jablonec,Dynamo Kyiv,2.0,2.0,True
+Apollon,Marseille,2.0,2.0,True
+Krasnodar,Sevilla,2.0,1.0,True
+BATE Borisov,PAOK,1.0,4.0,True
+Spartak Moscow,Villarreal,3.0,3.0,True
+,,,,False
+Sporting CP,Arsenal,0.0,1.0,True
+RB Leipzig,Celtic,2.0,0.0,True
+Spartak Trnava,Dinamo Zagreb,1.0,2.0,True
+RB Salzburg,Rosenborg,3.0,0.0,True
+FC Copenhagen,Slavia Prague,0.0,1.0,True
+F91 Dudelange,Olympiacos,0.0,2.0,True
+Milan,Betis,1.0,2.0,True
+Anderlecht,Fenerbahçe,2.0,2.0,True
+Zürich,Leverkusen,3.0,2.0,True
+AÉK Lárnaka,Ludogorets,1.0,1.0,True
+Zenit,Bordeaux,2.0,1.0,True
+Qarabağ Ağdam,Vorskla Poltava,0.0,1.0,True
+Chelsea,BATE Borisov,3.0,1.0,True
+Rangers,Spartak Moscow,0.0,0.0,True
+Villarreal,Rapid Wien,5.0,0.0,True
+Sevilla,Akhisarspor,6.0,0.0,True
+Sarpsborg 08,Malmö,1.0,1.0,True
+Standard Liège,Krasnodar,2.0,1.0,True
+Jablonec,Astana FK,1.0,1.0,True
+Marseille,Lazio,1.0,3.0,True
+Rennes,Dynamo Kyiv,1.0,2.0,True
+Eint Frankfurt,Apollon,2.0,0.0,True
+Beşiktaş,Genk,2.0,4.0,True
+PAOK,Vidi,0.0,2.0,True
+,,,,False
+Fenerbahçe,Anderlecht,2.0,0.0,True
+Astana FK,Jablonec,2.0,1.0,True
+Lazio,Marseille,2.0,1.0,True
+Malmö,Sarpsborg 08,1.0,1.0,True
+Vidi,PAOK,1.0,0.0,True
+Genk,Beşiktaş,1.0,1.0,True
+Rapid Wien,Villarreal,0.0,0.0,True
+Apollon,Eint Frankfurt,2.0,3.0,True
+Dynamo Kyiv,Rennes,3.0,1.0,True
+Akhisarspor,Sevilla,2.0,3.0,True
+Spartak Moscow,Rangers,4.0,3.0,True
+Krasnodar,Standard Liège,2.0,1.0,True
+BATE Borisov,Chelsea,0.0,1.0,True
+Arsenal,Sporting CP,0.0,0.0,True
+Celtic,RB Leipzig,2.0,1.0,True
+Leverkusen,Zürich,1.0,0.0,True
+Rosenborg,RB Salzburg,2.0,5.0,True
+Bordeaux,Zenit,1.0,1.0,True
+Dinamo Zagreb,Spartak Trnava,3.0,1.0,True
+Betis,Milan,1.0,1.0,True
+Slavia Prague,FC Copenhagen,0.0,0.0,True
+Olympiacos,F91 Dudelange,5.0,1.0,True
+Ludogorets,AÉK Lárnaka,0.0,0.0,True
+Vorskla Poltava,Qarabağ Ağdam,0.0,1.0,True
+,,,,False
+Spartak Moscow,Rapid Wien,1.0,2.0,True
+Astana FK,Dynamo Kyiv,0.0,1.0,True
+RB Salzburg,RB Leipzig,1.0,0.0,True
+Leverkusen,Ludogorets,1.0,1.0,True
+Betis,Olympiacos,1.0,0.0,True
+Bordeaux,Slavia Prague,2.0,0.0,True
+Anderlecht,Spartak Trnava,0.0,0.0,True
+Zürich,AÉK Lárnaka,1.0,2.0,True
+Milan,F91 Dudelange,5.0,2.0,True
+Rosenborg,Celtic,0.0,1.0,True
+Vorskla Poltava,Arsenal,0.0,3.0,True
+BATE Borisov,Vidi,2.0,0.0,True
+Krasnodar,Akhisarspor,2.0,1.0,True
+Zenit,FC Copenhagen,1.0,0.0,True
+Fenerbahçe,Dinamo Zagreb,0.0,0.0,True
+Qarabağ Ağdam,Sporting CP,1.0,6.0,True
+Rangers,Villarreal,0.0,0.0,True
+Chelsea,PAOK,4.0,0.0,True
+Sarpsborg 08,Beşiktaş,2.0,3.0,True
+Malmö,Genk,2.0,2.0,True
+Standard Liège,Sevilla,1.0,0.0,True
+Jablonec,Rennes,0.0,1.0,True
+Eint Frankfurt,Marseille,4.0,0.0,True
+Apollon,Lazio,2.0,0.0,True
+,,,,False
+Rennes,Astana FK,2.0,0.0,True
+Genk,Sarpsborg 08,4.0,0.0,True
+Rapid Wien,Rangers,1.0,0.0,True
+Marseille,Apollon,1.0,3.0,True
+Sevilla,Krasnodar,3.0,0.0,True
+Vidi,Chelsea,2.0,2.0,True
+Villarreal,Spartak Moscow,2.0,0.0,True
+Lazio,Eint Frankfurt,1.0,2.0,True
+Dynamo Kyiv,Jablonec,0.0,1.0,True
+PAOK,BATE Borisov,1.0,3.0,True
+Akhisarspor,Standard Liège,0.0,0.0,True
+Beşiktaş,Malmö,0.0,1.0,True
+Sporting CP,Vorskla Poltava,3.0,0.0,True
+Arsenal,Qarabağ Ağdam,1.0,0.0,True
+Celtic,RB Salzburg,1.0,2.0,True
+RB Leipzig,Rosenborg,1.0,1.0,True
+F91 Dudelange,Betis,0.0,0.0,True
+Slavia Prague,Zenit,2.0,0.0,True
+FC Copenhagen,Bordeaux,0.0,1.0,True
+Dinamo Zagreb,Anderlecht,0.0,0.0,True
+Spartak Trnava,Fenerbahçe,1.0,0.0,True
+Ludogorets,Zürich,1.0,1.0,True
+Olympiacos,Milan,3.0,1.0,True
+AÉK Lárnaka,Leverkusen,1.0,5.0,True
+,,,,False
+Fenerbahçe,Zenit,1.0,0.0,False
+Lazio,Sevilla,0.0,1.0,False
+Rapid Wien,Inter,0.0,1.0,False
+Slavia Prague,Genk,0.0,0.0,False
+Rennes,Betis,3.0,3.0,False
+Olympiacos,Dynamo Kyiv,2.0,2.0,False
+BATE Borisov,Arsenal,1.0,0.0,False
+Galatasaray,Benfica,1.0,2.0,False
+Krasnodar,Leverkusen,0.0,0.0,False
+Sporting CP,Villarreal,0.0,1.0,False
+Celtic,Valencia,0.0,2.0,False
+Viktoria Plzeň,Dinamo Zagreb,2.0,1.0,False
+Zürich,Napoli,1.0,3.0,False
+Malmö,Chelsea,1.0,2.0,False
+Club Brugge,RB Salzburg,2.0,1.0,False
+Shakhtar,Eint Frankfurt,2.0,2.0,False
+Sevilla,Lazio,2.0,0.0,False
+Arsenal,BATE Borisov,3.0,0.0,False
+Napoli,Zürich,2.0,0.0,False
+Eint Frankfurt,Shakhtar,4.0,1.0,False
+Valencia,Celtic,1.0,0.0,False
+RB Salzburg,Club Brugge,4.0,0.0,False
+Dinamo Zagreb,Viktoria Plzeň,3.0,0.0,False
+Villarreal,Sporting CP,1.0,1.0,False
+Zenit,Fenerbahçe,3.0,1.0,False
+Benfica,Galatasaray,0.0,0.0,False
+Chelsea,Malmö,3.0,0.0,False
+Genk,Slavia Prague,1.0,4.0,False
+Betis,Rennes,1.0,3.0,False
+Inter,Rapid Wien,4.0,0.0,False
+Leverkusen,Krasnodar,1.0,1.0,False
+Dynamo Kyiv,Olympiacos,1.0,0.0,False
+Rennes,Arsenal,3.0,1.0,False
+Sevilla,Slavia Prague,2.0,2.0,False
+Dinamo Zagreb,Benfica,1.0,0.0,False
+Eint Frankfurt,Inter,0.0,0.0,False
+Zenit,Villarreal,1.0,3.0,False
+Chelsea,Dynamo Kyiv,3.0,0.0,False
+Valencia,Krasnodar,2.0,1.0,False
+Napoli,RB Salzburg,3.0,0.0,False
+RB Salzburg,Napoli,3.0,1.0,False
+Dynamo Kyiv,Chelsea,0.0,5.0,False
+Krasnodar,Valencia,1.0,1.0,False
+Benfica,Dinamo Zagreb,3.0,0.0,False
+Arsenal,Rennes,3.0,0.0,False
+Slavia Prague,Sevilla,4.0,3.0,False
+Inter,Eint Frankfurt,0.0,1.0,False
+Villarreal,Zenit,2.0,1.0,False
+Arsenal,Napoli,2.0,0.0,False
+Benfica,Eint Frankfurt,4.0,2.0,False
+Slavia Prague,Chelsea,0.0,1.0,False
+Villarreal,Valencia,1.0,3.0,False
+Chelsea,Slavia Prague,4.0,3.0,False
+Eint Frankfurt,Benfica,2.0,0.0,False
+Napoli,Arsenal,0.0,1.0,False
+Valencia,Villarreal,2.0,0.0,False
+Arsenal,Valencia,3.0,1.0,False
+Eint Frankfurt,Chelsea,1.0,1.0,False
+Chelsea,Eint Frankfurt,1.0,1.0,False
+Valencia,Arsenal,2.0,4.0,False
+Chelsea,Arsenal,4.0,1.0,False
